@@ -1,0 +1,20 @@
+body {
+	
+background-image: url("slike/bg.jpg");
+}
+h1 {
+	text-align: center;
+	
+}
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+iframe {
+     text-align: center;
+	 }
+
+a {
+   font-size;40px ;
+}	
+	 
